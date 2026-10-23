@@ -47,4 +47,5 @@ Developing this project provided an opportunity to practice and strengthen sever
 # 👩‍💻 Author
 Sahar Hawsawi
 Computer Science Student at UQU. I’m passionate about programming and developing applications. This project represents part of my learning journey in software development.
-[Link to my Linkedin](www.linkedin.com/in/sahar-hawsawi-4133aa361)
+* Sahar Hawsawi [linkedin profile](https://www.linkedin.com/in/sahar-hawsawi-4133aa361)
+
